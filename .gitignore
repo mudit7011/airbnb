@@ -110,3 +110,6 @@ yarn-debug.log*
 # End of https://www.toptal.com/developers/gitignore/api/rails
 
 .DS_Store
+
+/app/assets/builds/*
+!/app/assets/builds/.keep
